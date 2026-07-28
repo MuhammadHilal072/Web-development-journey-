@@ -1,1 +1,1 @@
-This folder contains my HTML and CSS mini projects.
+This folder contains my Mini projects of web development journey.
